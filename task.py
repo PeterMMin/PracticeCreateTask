@@ -1,3 +1,5 @@
+# This is basically like game pigeon paintball but you only have 1 life instead of 3. There are 3 possible hiding and shooting spots, and the goal is to shoot where your opponent hides. 
+
 player1 = {
     
     'lives': 1,
